@@ -1,2 +1,2 @@
-# Hosting_demo_jekyll_Architect
-https://pages.github.com/themes/
+# [Hosting_demo_jekyll_Architect](https://github.com/pages-themes/architect)
+https://github.com/pages-themes/architect
